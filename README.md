@@ -27,4 +27,4 @@ This is a Student Management System developed using Python and MySQL.
 - delete_student.py
 
 ## 👩‍💻 Developed By
-Jaya Sekar
+**Jaya Sekar**
